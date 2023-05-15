@@ -70,3 +70,11 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+## Screenshots
+
+[Screenshots](/screenshots/the%20working%20application.png)
+
+## Hosted working frontend application
+
+[Udagram](http://myawsbucket-9fe390b8c695.s3-website-us-east-1.amazonaws.com)
